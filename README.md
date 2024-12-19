@@ -3,6 +3,9 @@
 
 MarketStockDB is a Windows Form application developed using .NET 8 and C#. It allows users to manage and view market stock data effectively.
 
+![image](https://github.com/user-attachments/assets/d32844f3-e9fd-483f-a5ed-ef5deb28cfbd) 
+![image](https://github.com/user-attachments/assets/e24e3e06-7782-49bf-973a-5f49b2413cfc)
+
 ## Features
 
 - **Stock Data Management**: Users can add, edit, and delete stock data.
