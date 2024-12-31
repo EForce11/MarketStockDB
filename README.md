@@ -46,16 +46,6 @@ MarketStockDB is a Windows Form application developed using .NET 8 and C#. It al
 - **Program.cs**: Entry point of the application.
 - **App.config**: Configuration file for the application, including the database connection string.
 
-## Contribution
-
-We welcome contributions! Please open an **issue** first to discuss what you would like to work on.
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/FeatureName`).
-3. Commit your changes (`git commit -m 'Add Feature: FeatureName'`).
-4. Push to your branch (`git push origin feature/FeatureName`).
-5. Open a **pull request**.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
